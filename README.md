@@ -1,13 +1,13 @@
 
 ---
 
-# 📊 **Customer Churn Analysis & Revenue-at-Risk Modeling**
+#  **Customer Churn Analysis & Revenue-at-Risk Modeling**
 
 *A Data Analytics Case Study using Python & SQL*
 
 ---
 
-## 🎯 **Objective**
+##  **Objective**
 
 Understanding customer churn is one of the most crucial challenges for subscription-based companies. This project aims to explore **why customers leave**, identify **high-risk churn segments**, and quantify the **revenue impact of churn** using a combination of Python, SQL, and analytical KPIs.
 
@@ -36,7 +36,7 @@ By combining analytical techniques with business understanding, this project rev
 
 ---
 
-## 📂 **Dataset Description**
+##  **Dataset Description**
 
 **Source:** IBM Telco Customer Churn Dataset
 **Records:** ~7,000+ customers
@@ -52,7 +52,7 @@ By combining analytical techniques with business understanding, this project rev
 
 ---
 
-## 🛠️ **Methodology & Tools Used**
+##  **Methodology & Tools Used**
 
 ### **Approach**
 
@@ -72,7 +72,7 @@ By combining analytical techniques with business understanding, this project rev
 
 ---
 
-## 📐 **Metrics & KPIs Used in This Project**
+##  **Metrics & KPIs Used in This Project**
 
 *All metrics below were computed using Python & SQL in the notebook.*
 
@@ -135,7 +135,7 @@ By combining analytical techniques with business understanding, this project rev
 
 ---
 
-## 👥 **Customer Segmentation (6 High-Risk Profiles)**
+##  **Customer Segmentation (6 High-Risk Profiles)**
 
 Using Python filtering and business rules, six churn-prone segments were created, such as:
 
@@ -155,9 +155,9 @@ Each profile was evaluated for:
 
 ---
 
-## 📈 **Analysis & Key Results**
+##  **Analysis & Key Results**
 
-### 🔍 **Major Insights**
+###  **Major Insights**
 
 * **Month-to-month contract customers churn ~3× more.**
 * **Customers without Tech Support churn ~45% more.**
@@ -165,13 +165,13 @@ Each profile was evaluated for:
 * High Monthly Charges correlate strongly with churn.
 * Paperless billing & Electronic Checks show increased churn.
 
-### 💸 **Revenue Impact**
+###  **Revenue Impact**
 
 * **30% of MonthlyCharges revenue is at risk.**
 * High-ARPU customers create **4× more revenue loss** despite being fewer in number.
 * SQL-based RAR modeling highlights financially vulnerable customer cohorts.
 
-### 🎯 **Business Recommendations**
+###  **Business Recommendations**
 
 * Push long-term contracts
 * Improve Tech Support onboarding
@@ -181,7 +181,7 @@ Each profile was evaluated for:
 
 ---
 
-## ▶️ **Getting Started**
+##  **Getting Started**
 
 ### **Requirements**
 
@@ -209,7 +209,7 @@ Customer_Churn_Analysis.ipynb
 
 ---
 
-## 🚀 **Future Improvements**
+##  **Future Improvements**
 
 * Build ML churn prediction model
 * Add Power BI / Tableau dashboards
@@ -218,11 +218,14 @@ Customer_Churn_Analysis.ipynb
 
 ---
 
-## 📬 **Contact**
+##  **Contact**
 
 **Name:** *NIKHIL GUPTA*
+
 **Email:** *nikhilgupta2156ng@gmail.com*
+
 **LinkedIn:** *linkedin.com/in/nikhilgupta2156*
+
 **GitHub:** *https://github.com/nikhilgupta2156*
 
 **Acknowledgements:** IBM Telco Customer Churn Dataset
