@@ -1,7 +1,7 @@
 
 ---
 
-#  **Customer Churn Analysis & Revenue-at-Risk Modeling**
+#  **Customer Churn & Revenue Risk Analysis**
 
 *A Data Analytics Case Study using Python & SQL*
 
