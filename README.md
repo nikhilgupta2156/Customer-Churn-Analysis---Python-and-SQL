@@ -224,7 +224,7 @@ Customer_Churn_Analysis.ipynb
 
 **Email:** *nikhilgupta2156ng@gmail.com*
 
-**LinkedIn:** *linkedin.com/in/nikhilgupta2156*
+**LinkedIn:** *https://www.linkedin.com/in/nikhilgupta2156/*
 
 **GitHub:** *https://github.com/nikhilgupta2156*
 
