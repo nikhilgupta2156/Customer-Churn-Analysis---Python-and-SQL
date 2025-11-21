@@ -220,13 +220,13 @@ Customer_Churn_Analysis.ipynb
 
 ##  **Contact**
 
-**Name:** *NIKHIL GUPTA*
+**Name:** NIKHIL GUPTA
 
-**Email:** *nikhilgupta2156ng@gmail.com*
+**Email:** nikhilgupta2156ng@gmail.com
 
-**LinkedIn:** *https://www.linkedin.com/in/nikhilgupta2156/*
+**LinkedIn:** https://www.linkedin.com/in/nikhilgupta2156/
 
-**GitHub:** *https://github.com/nikhilgupta2156*
+**GitHub:** https://github.com/nikhilgupta2156
 
 **Acknowledgements:** IBM Telco Customer Churn Dataset
 
