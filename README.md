@@ -3,7 +3,7 @@
 
 #  **Customer Churn & Revenue Risk Analysis**
 
-*A Data Analytics Case Study using Python & SQL*
+*A Data Analytics Project using Python & SQL*
 
 ---
 
